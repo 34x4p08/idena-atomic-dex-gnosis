@@ -11,3 +11,8 @@ run `forge test` to run the Solidity tests under `test/`
 ### Installing Foundry
 
 See the official Foundry installation [instructions](https://github.com/gakonst/foundry/blob/master/README.md#installation)
+
+
+## Deployment info
+
+Contract on GC: https://gnosisscan.io/address/0x426b466Af327E53B4c2a7D1Ea7672E397BE7b408#contracts
